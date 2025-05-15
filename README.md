@@ -1,6 +1,9 @@
 # Karaoke Music Track Analysis
 This project was built for a hypothetical client, **Bubble Karaoke**, aiming to launch coin-operated karaoke booths in Sweden. The project explores how to build a **karaoke song search system** using music metadata and audio features.
 
+## Try Interactive Karaoke Track Search!
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/moonsubiny/projects/blob/main/Karaoke%20Music%20Tracks.ipynb)
+
 ## 🎯 Project Goal
 
 Help the client:
